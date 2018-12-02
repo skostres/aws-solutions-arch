@@ -1,0 +1,67 @@
+--------------------------------
+Desktop & App Streaming
+--------------------------------
+
+Not covered
+
++ Workspaces
+    - VDI (Virtual Desktop Infrastructure) solution
+
++ AppStream 2.0
+    -  Stream the application to your monitor
+
+--------------------------------
+AR & VR
+--------------------------------
+
+Not covered
+
++ Sumerian
+    - Used for augmented reality
+    - Build 3D rooms
+
+
+--------------------------------
+Internet of Things
+--------------------------------
+
+Not covered
+
++ iOT
+
++ iOT Device Management 
+
++ Amazon FreeRTOS
+    - Free operating system for micro controllers 
+
++ Greengrass
+    - Software that lets you run local compute messaging data caching
+
+
+--------------------------------
+Game Development
+--------------------------------
+Not covered
+
++ GameLift
+
+--------------------------------
+Mobile Services
+--------------------------------
+
+Not relevant to exam
+
++ Mobile Hub
+    - Not covered
+
++ Pinpoint
+    - Push notification to targetted users based on location
+
++ AWS AppSync
+    - Automatically updates the data in web and mobile apps 
+
++ Device Farm
+    - Test on real live devices
+
++ Mobile Analytics
+    - Not covered

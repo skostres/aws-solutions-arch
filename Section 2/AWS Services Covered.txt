@@ -1,0 +1,103 @@
+=====================
+Section 2, Lecture 8
+=====================
+
+--------------------------------
+Security & Identity & Compliance
+--------------------------------
+
+Services:
+
++ ** IAM (Identity Access Management) 
+    - Relevant to Solutions Arch, Developer, 
+
++ * Cognito
+    - Device authentication service
+    - Use cognito service to provide temporary authorization in one of the AWS services. Ex: update Dynamo DB
+
++ GuardDuty
+    - Monitors for malicious activity in AWS account
+
++ ** Inspector
+    - Agent that runs on say a EC2 instance to generate reports of vulnerabilities
+    - In security specialty course
+
++ Macie
+    - Scans S3 buckets for confidential information PII
+
++ ** Certificate Manager
+    - Manage SSL certificates - included for AWS customers
+
++ ** CloudHSM
+    - Dedicated hardware to store private keys in order to encrypt or access your AWS services
+    - Used to be a very expensive service
+
++ ** Directory Services
+    - A way of integrating Active Directory services with AWS Services
+    
++ ** WAF - Web Application Firewall
+    - Inspects Application Layer of the OSI model for malicious traffic
+
++ ** Shield
+    - Get it by default for cloud front and load balancers
+    - Helps mitigate DDOS attacks
+    - Avoids heavy costs for DDOS traffic
+
++ Artifact
+    - Manage select agreeents
+            - Download "SOFT" - Service Organization Controls
+            
+--------------------------------
+Application Integration
+--------------------------------
+
++ Step Functions
+    - Method of managing Lamda functions and the steps
+
++ Amazon MQ
+    - Message queues
+
++ ** SNS Simple Notification Service
+    - Example: Bill threshold alarms
+
++ ** SQS Simple Queue Service
+    - Method of decoupling your infrastructure
+    - Durable queue
+
++ ** SWF Simple Workflow Service
+    - Will be covered
+    - Used in Amazon warehouses
+
+--------------------------------
+Customer Engagement
+--------------------------------
+
++ Connect
+    - Contact service
+
+
++ (SES) Simple Email Service
+
+--------------------------------
+Business Productivity
+--------------------------------
+
++ Alexa For Business
+    - Dial into a room
+    - Message IT
+
++ Chime
+    - Like google hangout - Video conferencing
+    - Record
+
++ **Work Docs
+    - Dropbox for AWS - safely and securely transfer files
+
++ WorkMail
+    - Amazon's google email
+
+
+Footnotes:
+** Relevant to exam
+
+
