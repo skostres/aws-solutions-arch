@@ -1,0 +1,33 @@
+What is IAM?
+
+Allows management of users and their level of authorization to the AWS console
+
+Objectives:
+- How it works
+- What it is
+
+What does IAM give you?
+- Centralised control of your AWS account
+- Shared access to AWS
+- Granular permissions
+- Identity Federation
+    + Allows to connect organizations on premise IAM (Active Directory or Facebook, Linkedin)
+    + Federated authentication allows members of one organization to use their authentication credentials to access a web application in another institution.
+- Multifactor authorization
+    + Two factor authentication (Phone Text - What you have) + password (What you know)
+- Provide temporary access for users / devices and services where needed
+- Allows you to set up password rotation
+- Supports PCI DSS Compliance
+
+Critical Terms
+- Users - End Users
+- Groups - Collection of users under one set of permissions
+- Roles - You create roles and can then assign them to AWS resources
+- Policies A document that defines one or more permissions
+
+Policies may be attached at a user, group or role level.
+
+---
+LAB
+---
+- Users created in IAM are available throughout the world for access
