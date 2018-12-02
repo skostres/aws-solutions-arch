@@ -1,0 +1,38 @@
+=====================
+Section 2, Lecture 9
+=====================
+
+Relevant to the AWS Solutions Arch Associate (SA Associate) Exam
+
+- Analytics
+- Management Tools
+- Migration
+- Compute
+- Desktop & App Streaming
+- Application Integration
+- Security & Identity & Compliance 
+- Networking & Content Delivery
+- Storage
+- Databases
+- AWS Global Infrastructure
+
+Developer Associate
+- Analytics 
+- Management Tools
+- Compute
+- Application Integration
+- Security & Identity & Compliance 
+- Networking & Content Delivery
+- Storage
+- Databases
+- AWS Global Infrastructure
+
+Sysops Administrator Associate
+- Management Tools
+- Compute
+- Application Integration
+- Security & Identity & Compliance 
+- Networking & Content Delivery
+- Storage
+- Databases
+- AWS Global Infrastructure
